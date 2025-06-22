@@ -22,6 +22,7 @@ Before you can run any experiments, you must complete some setup:
 
 1) ```python3 generate_data_distribution.py``` This downloads the datasets, as well as generates a static distribution of the training and test data to provide consistency in experiments.
 2) ```python3 generate_default_models.py``` This generates an instance of all of the models used in the paper, and saves them to disk.
+3) ``` python3 defense.py ``` This script includes multiple methods such as Isolation Forest (IF), K-means, One-Class SVM (OC-SVM), Agglomerative Clustering, Local Outlier Factor (LOF), and Autoencoders. The code is divided into blocks separated by ###. To run specific algorithms, uncomment the desired blocks and comment out the others.
 
 ### General Information
 
