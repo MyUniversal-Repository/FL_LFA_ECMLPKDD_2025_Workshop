@@ -65,26 +65,5 @@ Recommended default hyperparameters for Fashion-MNIST (using the provided CNN):
 - Scheduler gamma: 0.1
 - Min_lr: 1e-10
 
-## Citing
 
-If you use this code, please cite the paper:
-
-```
-@ARTICLE{2020arXiv200708432T,
-       author = {{Tolpegin}, Vale and {Truex}, Stacey and {Emre Gursoy}, Mehmet and
-         {Liu}, Ling},
-        title = "{Data Poisoning Attacks Against Federated Learning Systems}",
-      journal = {arXiv e-prints},
-     keywords = {Computer Science - Machine Learning, Computer Science - Cryptography and Security, Statistics - Machine Learning},
-         year = 2020,
-        month = jul,
-          eid = {arXiv:2007.08432},
-        pages = {arXiv:2007.08432},
-archivePrefix = {arXiv},
-       eprint = {2007.08432},
- primaryClass = {cs.LG},
-       adsurl = {https://ui.adsabs.harvard.edu/abs/2020arXiv200708432T},
-      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
-}
-```
 >>>>>>> ea62e6e (Initial commit)
